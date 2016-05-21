@@ -13,7 +13,11 @@ This is a document which listed out collections of good front-end examples
          <li>Web Fonts Repository : https://github.com/lovedisaster/Webfonts</li>
       </ul>
    </li>
-   <li>TASKBUILDERS</li>
+   <li>TASKBUILDERS
+      <ul>
+          <li>Gulp Wordpress Starter Theme: https://github.com/synapticism/wordpress-gulp-starter-kit</li>
+      </ul>
+   </li>
    <li>REACT
        <ul>
           <li>React + Redux Starter Kit: https://github.com/davezuko/react-redux-starter-kit</li>
