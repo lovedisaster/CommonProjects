@@ -18,7 +18,7 @@ This is a document which listed out collections of good front-end examples
    <li>ANGULAR</li>
    <li>YOUR PROJECTS
        <ul>
-           <li>Cabots Home Page ( GruntJS )- Nathan Z : </li>
+           <li>Sample ( GruntJS )- Nathan Z : https://github.com/hbtagency/cabots</li>
        </ul>
    </li>
 </ul>
