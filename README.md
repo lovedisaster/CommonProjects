@@ -14,7 +14,11 @@ This is a document which listed out collections of good front-end examples
       </ul>
    </li>
    <li>TASKBUILDERS</li>
-   <li>REACT</li>
+   <li>REACT
+       <ul>
+          <li>React + Redux Starter Kit: https://github.com/davezuko/react-redux-starter-kit</li>
+       </ul>
+   </li>
    <li>ANGULAR</li>
    <li>YOUR PROJECTS
        <ul>
